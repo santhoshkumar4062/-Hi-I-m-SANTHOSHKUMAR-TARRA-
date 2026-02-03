@@ -44,21 +44,36 @@ This Paper Aims to present a Technology-Based Notice Board using "COLLEGE TIME T
 
 ---
 
-## 🎓 CERTIFICATIONS
+## 🎓 CERTIFICATIONS | 💼 INTERNSHIPS
 
-- **TCS iON** – Master Data Management for Beginners  
-- **NIELIT Calicut** – Micro-Python for Beginners  
-
----
-
-## 💼 INTERNSHIPS
-
-- **Bharat Sanchar Nigam Limited (BSNL)** – 4-week internship in Telecom  
-- **Skilldzire Technology Pvt. Ltd.**
-  - Internet of Things (IoT) – 240 Hours (with APSCHE)  
-  - Artificial Intelligence & Data Science – 2 Months (with AICTE)  
-  - Embedded Systems – 1 Month (with AICTE)  
-- **Cynohub** – Python Developer Internship (3 Months)  
+- **TCS iON** – Master Data Management For Beginners
+- **Infosys | Springboard** - Introduction To Natural Languange Processing
+- **Infosys | Springboard** - Introduction To Artificial Intelligence
+- **Infosys | Springboard** - Introduction Data Science
+- **Infosys | Springboard** - Prompt Enginnering
+- **Infosys | Springboard** - Generative AI Unleashing
+- **Infosys | Springboard** - Artificial Intelligence
+- **Infosys | Springboard** - Generative Models For Developers
+- **Infosys | Springboard** - OpenAI Generative Pre-Trained Transformer 3 (GPT-3) For Developer
+- **Infosys | Springboard** - Introduction To OpenAI GPT Models
+- **Infosys | Springboard** - High Imact Presentations
+- **Infosys | Springboard** - Email Writing Skills
+- **Infosys | Springboard** - Time Management
+- **Infosys | Springboard** - Introduction To Robotic Process Automation
+- **Infosys | Springboard** - Introduction To Deep Learning
+- **Infosys | Springboard** - Computer Vision 101
+- **Infosys | Springboard** - Agile Scrum in Practice
+- **Infosys | Springboard** - Deep Learning For Developers
+- **Skilldzire Technology Pvt. Ltd.** - Internet Of Things (IOT)
+- **Skilldzire Technology Pvt. Ltd.** - Data Science
+- **Skilldzire Technology Pvt. Ltd.** - Embedded Systems
+- **Skilldzire Technology Pvt. Ltd.** - Artificial Intelligence
+- **Udemy** - PHP & MYSQL Course For Beginners
+- **Udemy** - HTML, CSS & JavaScript Course For Beginners
+- **Internshala Training** - Programming with Python | Internship & Job Preparation | Skill India | N.S.D.C
+- **Bharat Sanchar Nigam Limited (BSNL)** – 4-week internship in Telecom
+- **Cynohub** – Python Developer Internship 
+- **NIELIT Calicut** – Micro-Python For Beginners  
 
 ---
 
